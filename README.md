@@ -1,6 +1,6 @@
 # BudaCompanyPLE
 🐍 
-![Alt-текст](![https://u-stena.ru/upload/iblock/e95/e952fa77895f8d85f016897fa64330bc.jpg)
+![Alt-текст](https://u-stena.ru/upload/iblock/e95/e952fa77895f8d85f016897fa64330bc.jpg)
 | LEFT | CENTER | RIGHT |
 |----------------|:---------:|----------------:|
 | По левому краю | По центру | По правому краю |
