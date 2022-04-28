@@ -1,3 +1,3 @@
 # BudaCompanyPLE
 🐍 
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+![Alt-текст](https://cdn.fishki.net/upload/post/2017/09/04/2371966/eddie1.jpg)
